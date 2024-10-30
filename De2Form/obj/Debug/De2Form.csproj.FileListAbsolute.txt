@@ -1,0 +1,10 @@
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\bin\Debug\De2Form.exe.config
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\bin\Debug\De2Form.exe
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\bin\Debug\De2Form.pdb
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.csproj.AssemblyReference.cache
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.Form1.resources
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.Properties.Resources.resources
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.csproj.GenerateResource.cache
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.csproj.CoreCompileInputs.cache
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.exe
+E:\HỌC\tích hợp htpm\CUOIKY\De2Form\De2Form\obj\Debug\De2Form.pdb
